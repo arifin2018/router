@@ -53,4 +53,9 @@ nav li {
   margin: 0;
   padding: 8px;
 }
+a.router-link-exact-active {
+  /* router-link-exact-active router-link-active */
+  color: red;
+  background-color: green;
+}
 </style>
